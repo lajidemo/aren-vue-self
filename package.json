@@ -1,0 +1,28 @@
+{
+  "name": "aren-vue-self",
+  "version": "1.0.3",
+  "description": "自定义vue脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "脚手架",
+    "@vue/self",
+    "vue/self"
+  ],
+  "author": "aren822",
+  "license": "ISC",
+  "bin": {
+    "aren": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.3.3",
+    "ora": "^5.0.0"
+  }
+}
