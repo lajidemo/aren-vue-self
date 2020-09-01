@@ -1,6 +1,6 @@
 {
   "name": "aren-vue-self",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "自定义vue脚手架",
   "main": "index.js",
   "scripts": {

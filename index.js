@@ -22,7 +22,7 @@ const path = require('path');
 // console.log(process.argv)
 
 // 模板
-// zaigithub上用https方式下载
+// 在github上用https方式下载地址
 const downloadUrl = 'direct:https://github.com/lajidemo/App.git';
 const packageStr = fs.readFileSync(path.join(__dirname,'./package.json'),'utf-8');
 const version = JSON.parse(packageStr).version;
